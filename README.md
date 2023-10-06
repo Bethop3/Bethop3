@@ -5,9 +5,6 @@
 
 
 <br>
-<p>Si vas a poner algo pon tecnologias a los que le muevas, no son poquemones para que colecciones los iconos aver si aprendes es mejor ser especialista que generalista</p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo7UdctCTSiIBgEK0Z-0RwLYaJm5uKPKDsOQ&usqp=CAU" />
-
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 	<!---
