@@ -5,13 +5,17 @@
 
 <br>
 
-## 👨‍💻 Sobre Mí
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Contesto rápido si es chisme uwu ❤️
 
-* 🎓 Estudiante de **Ingeniería en Software** en la **Universidad Politécnica de Quintana Roo**.
-* 🚀 Actualmente trabajando en el proyecto **SIGEUP** (Gestión de Control Escolar).
-* 🏢 Realicé mi estancia profesional en el **Centro de Innovación y Creatividad 4.0 (CIC 4.0)**.
-* 🎯 Meta actual: Graduarme con éxito en **mayo de 2026**.
-* 💬 Contesto rápido si es chisme uwu ❤️
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+
+<br>
+
+- 🎓 Estudiante de **Ingeniería en Software** en la **Universidad Politécnica de Quintana Roo**.
+- 🚀 Actualmente trabajando en el proyecto **SIGEUP** (Gestión de Control Escolar).
+- 🏢 Realicé mi estancia profesional en el **Centro de Innovación y Creatividad 4.0 (CIC 4.0)**.
+- 🎯 Meta actual: Graduarme con éxito en **mayo de 2026**.
+- 💬 "Simplicity is prerequisite for reliability".
 
 <br>
 
