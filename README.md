@@ -1,4 +1,4 @@
-<h1 align="center"> Hola, Soy Beto Estrada <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> Hola, Soy Alberto Estrada <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Student;Universidad+Politécnica+de+QRoo;Desarrollador+de+SIGEUP;Buscando+aprender+algo+nuevo+cada+día"></a>
 </p>
@@ -20,17 +20,24 @@
 ## 🚀 Proyectos Destacados
 
 - 🏫 **SIGEUP**: Sistema de gestión de control escolar desarrollado para la universidad.
-- 🌐 **[CODISCUN](https://www.codiscun.org/)**: Sitio web oficial de la Comunidad de Personas con Discapacidad de Cancún (Desarrollado en WordPress).
+- 🌐 **[CODISCUN](https://www.codiscun.org/)**: Sitio web oficial de la Comunidad de Personas con Discapacidad de Cancún.
 
 <br>
 
 ## 🛠️ Tecnologías y Herramientas
+
+### 💻 Desarrollo
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+### 🎨 Diseño y Datos
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 </p>
 
 <br>
