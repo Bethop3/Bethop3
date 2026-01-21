@@ -7,26 +7,37 @@
 
 ## 👨‍💻 Sobre Mí
 
-- 🎓 Estudiante de **Ingeniería en Software** en la **Universidad Politécnica de Quintana Roo**.
-- 🚀 Actualmente trabajando en el proyecto **SIGEUP** (Gestión de Control Escolar).
-- 🏢 Realicé mi estancia profesional en el **Centro de Innovación y Creatividad 4.0 (CIC 4.0)**.
-- 🎯 Mi meta es graduarme en **mayo de 2026**.
-- 💬 Contesto rápido si es chisme uwu ❤️
+* 🎓 Estudiante de **Ingeniería en Software** en la **Universidad Politécnica de Quintana Roo**.
+* 🚀 Actualmente trabajando en el proyecto **SIGEUP** (Gestión de Control Escolar).
+* 🏢 Realicé mi estancia profesional en el **Centro de Innovación y Creatividad 4.0 (CIC 4.0)**.
+* 🎯 Meta actual: Graduarme con éxito en **mayo de 2026**.
+* 💬 Contesto rápido si es chisme uwu ❤️
 
 <br>
 
-## 📊 Mis Estadísticas de GitHub
+## 🛠️ Tecnologías y Herramientas
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
+<br>
+
+## 📊 Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bethop3&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Alberto" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bethop3&layout=compact&theme=tokyonight" alt="Lenguajes usados" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bethop3&theme=tokyonight" alt="Racha de Alberto" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bethop3&theme=tokyonight&margin-w=15" alt="Trofeos de Alberto" />
 </p>
 
-## 🐍 Actividad (Snake Game)
+<br>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bethop3/Bethop3/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
