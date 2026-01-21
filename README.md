@@ -14,7 +14,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 - 🎓 Estudiante de **Ingeniería en Software** en la **Universidad Politécnica de Quintana Roo**.
-- 🚀 Líder de FrontEnd del proyecto **[SIGEUP](https://sigeup.upqroo.edu.mx/login)**, implementando arquitecturas de seguridad robustas y autenticación mediante tokens.
+- 🚀 Líder de FrontEnd del proyecto **[SIGEUP](https://sigeup.upqroo.edu.mx/login)**.
 - 🏢 Ex-estudiante en estancia profesional en el **Centro de Innovación y Creatividad 4.0 (CIC 4.0)**.
 - 🎯 Meta: Concluir titulación con excelencia en **mayo de 2026**.
 - ✉️ Abierto a colaboraciones y proyectos de desarrollo de software de alto impacto.
