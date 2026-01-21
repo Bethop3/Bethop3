@@ -36,10 +36,10 @@
 
 <br>
 
----
+> [!IMPORTANT]
+> <p align="center">
+>   <b>"Solo quiero que mi vida sea importante, aunque sea un poco. Quiero que mis sueños signifiquen algo."</b><br>
+>   <i>— Fionna Campbell</i>
+> </p>
 
-<p align="center">
-  <img src="https://readme-quotes-tan.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&customQuote=Solo+quiero+que+mi+vida+sea+importante,+aunque+sea+un+poco.+Quiero+que+mis+sueños+signifiquen+algo.&customAuthor=Fionna+Campbell">
-</p>
-
----
+<br>
