@@ -28,11 +28,5 @@
 
 ## 🐍 Actividad (Snake Game)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bethop3/Bethop3/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+  <img src="https://raw.githubusercontent.com/Bethop3/Bethop3/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
