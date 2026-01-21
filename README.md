@@ -1,4 +1,4 @@
-<h1 align="center"> Hola, Soy Alberto Estrada <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> Hola, Soy Beto Estrada <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Student;Universidad+Politécnica+de+QRoo;Desarrollador+de+SIGEUP;Buscando+aprender+algo+nuevo+cada+día"></a>
 </p>
@@ -10,7 +10,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 - 🎓 Estudiante de **Ingeniería en Software** en la **Universidad Politécnica de Quintana Roo**.
-- 🚀 Actualmente desarrollando el proyecto **SIGEUP** (Gestión de Control Escolar).
+- 🚀 Actualmente desarrollando el proyecto **[SIGEUP](https://sigeup.upqroo.edu.mx/login)** (Gestión de Control Escolar).
 - 🏢 Realicé mi estancia profesional en el **Centro de Innovación y Creatividad 4.0 (CIC 4.0)**.
 - 🎯 Meta actual: Graduarme con éxito en **mayo de 2026**.
 - 💬 Contesto rápido si es chisme uwu ❤️
@@ -19,7 +19,7 @@
 
 ## 🚀 Proyectos Destacados
 
-- 🏫 **SIGEUP**: Sistema de gestión de control escolar desarrollado para la universidad.
+- 🏫 **[SIGEUP](https://sigeup.upqroo.edu.mx/login)**: Sistema de gestión de control escolar oficial de la UPQROO.
 - 🌐 **[CODISCUN](https://www.codiscun.org/)**: Sitio web oficial de la Comunidad de Personas con Discapacidad de Cancún.
 
 <br>
@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
