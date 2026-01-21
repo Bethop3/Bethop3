@@ -5,17 +5,15 @@
 
 <br>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Contesto rápido si es chisme uwu ❤️
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre Mí
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-<br>
-
 - 🎓 Estudiante de **Ingeniería en Software** en la **Universidad Politécnica de Quintana Roo**.
-- 🚀 Actualmente trabajando en el proyecto **SIGEUP** (Gestión de Control Escolar).
-- 🏢 Realicé mi estancia profesional en el **Centro de Innovación y Creatividad 4.0 (CIC 4.0)**.
-- 🎯 Meta actual: Graduarme con éxito en **mayo de 2026**.
-- 💬 "Simplicity is prerequisite for reliability".
+- 🚀 Actualmente desarrollando **SIGEUP** (Gestión de Control Escolar).
+- 🏢 Experiencia en el **Centro de Innovación y Creatividad 4.0 (CIC 4.0)**.
+- 🎯 Meta: Graduación exitosa en **mayo de 2026**.
+- 💬 Contesto rápido si es chisme uwu ❤️
 
 <br>
 
@@ -39,5 +37,5 @@
 <br>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&customQuote=Solo+quiero+que+mi+vida+sea+importante,+aunque+sea+un+poco.+Quiero+que+mis+sueños+signifiquen+algo.&customAuthor=Fionna+Campbell">
 </p>
