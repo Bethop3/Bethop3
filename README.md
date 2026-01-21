@@ -17,12 +17,19 @@
 
 <br>
 
+## 🚀 Proyectos Destacados
+
+- 🏫 **SIGEUP**: Sistema de gestión de control escolar desarrollado para la universidad.
+- 🌐 **[CODISCUN](https://www.codiscun.org/)**: Sitio web oficial de la Comunidad de Personas con Discapacidad de Cancún (Desarrollado en WordPress).
+
+<br>
+
 ## 🛠️ Tecnologías y Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
@@ -36,7 +43,7 @@
 
 <br>
 
-> [!IMPORTANT]
+> [!TIP]
 > <p align="center">
 >   <b>"Solo quiero que mi vida sea importante, aunque sea un poco. Quiero que mis sueños signifiquen algo."</b><br>
 >   <i>— Fionna Campbell</i>
