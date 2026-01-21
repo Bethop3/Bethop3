@@ -23,20 +23,20 @@
 
 ## 🚀 Proyectos y Experiencia
 
-- 🏫 **SIGEUP**: Implementación de arquitectura **MVC** y seguridad avanzada en Login para proteger la integridad de los datos escolares.
+- 🏫 **SIGEUP**: Implementación de arquitectura **MVC** y seguridad avanzada en Login para proteger datos escolares.
 - 🌐 **[CODISCUN](https://www.codiscun.org/)**: Desarrollo y mantenimiento del sitio oficial para la comunidad con discapacidad en Cancún.
+- ⚡ **Stack**: Experiencia con **Node.js**, **C#**, **Python** y **Windows Forms**.
 
 <br>
 
 ## 🛠️ Tecnologías y Herramientas
 
-### 💻 Stack de Desarrollo
+### 💻 Desarrollo
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -44,18 +44,28 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
 <br>
 
 ## 🌐 Conéctate Conmigo
 
+### 🎮 Gaming Profiles
 <p align="left">
-  <a href="https://discordapp.com/users/514994102019031051" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <img src="https://img.shields.io/badge/Fortnite-II_MirosLava_II-0078D4?style=for-the-badge&logo=fortnite&logoColor=white" alt="Fortnite">
-  <a href="https://www.instagram.com/beto_estrada23/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.facebook.com/profile.php?id=100009228817746" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <img src="https://img.shields.io/badge/Fortnite-II_MirosLava_II-0078D4?style=for-the-badge&logo=fortnite&logoColor=white" />
+  <img src="https://img.shields.io/badge/LoL-II_MirosLava_II%23LAN-EB1923?style=for-the-badge&logo=league-of-legends&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xbox-Miroslava8562-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
+  <a href="https://steamcommunity.com/profiles/76561199093745095" target="_blank"><img src="https://img.shields.io/badge/Steam-II_MirosLava_II-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
+</p>
+
+### 📱 Redes Sociales
+<p align="left">
+  <a href="https://discordapp.com/users/514994102019031051" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.instagram.com/bethop3_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/miroslava.estrada.893723/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UChEZ6xrCwpLsrGdfPdgGGCA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://open.spotify.com/user/3127cvn562l3pmamlg2652vdipea?si=f112277ac9f24abd" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
 
 <br>
