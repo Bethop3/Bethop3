@@ -6,7 +6,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=TU_USUARIO_AQUI&label=Profile%20views&color=0047AB&style=plastic" alt="Alberto Estrada" height=25px/> 
+	<img src="https://komarev.com/ghpvc/?username=Bethop3&label=Profile%20views&color=0047AB&style=plastic" alt="Alberto Estrada" height=25px/> 
 </p>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Contesto rápido si es chisme uwu ❤️
@@ -50,17 +50,17 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> </picture> Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&count_private=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_AQUI&langs_count=8&theme=tokyonight&layout=compact" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bethop3&show_icons=true&count_private=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bethop3&langs_count=8&theme=tokyonight&layout=compact" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bethop3&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ## 🐍 Actividad en el Código
 <p align="center">
-  <img src="https://github.com/TU_USUARIO_AQUI/TU_USUARIO_AQUI/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+  <img src="https://github.com/Bethop3/Bethop3/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
 
 <br>
