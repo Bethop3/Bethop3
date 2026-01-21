@@ -10,9 +10,9 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 - 🎓 Estudiante de **Ingeniería en Software** en la **Universidad Politécnica de Quintana Roo**.
-- 🚀 Actualmente desarrollando **SIGEUP** (Gestión de Control Escolar).
+- 🚀 Actualmente desarrollando **SIGEUP** (Sistema de Gestión de Control Escolar).
 - 🏢 Experiencia en el **Centro de Innovación y Creatividad 4.0 (CIC 4.0)**.
-- 🎯 Meta: Graduación exitosa en **mayo de 2026**.
+- 🎯 Meta actual: Graduarme con éxito en **mayo de 2026**.
 - 💬 Contesto rápido si es chisme uwu ❤️
 
 <br>
@@ -36,6 +36,13 @@
 
 <br>
 
+---
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&customQuote=Solo+quiero+que+mi+vida+sea+importante,+aunque+sea+un+poco.+Quiero+que+mis+sueños+signifiquen+algo.&customAuthor=Fionna+Campbell">
+  <br>
+  <i>"Solo quiero que mi vida sea importante, aunque sea un poco. Quiero que mis sueños signifiquen algo."</i>
+  <br>
+  <b>— Fionna Campbell</b>
 </p>
+
+---
